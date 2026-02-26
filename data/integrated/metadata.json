@@ -1,0 +1,19 @@
+{
+  "datasets_integrated": [
+    "NOAA_CRW",
+    "NOAA_AOML",
+    "Florida_Keys_NMS",
+    "FWS_CREMP",
+    "Allen_Coral_Atlas"
+  ],
+  "integration_date": "2025-11-11T04:49:15.684207",
+  "spatial_resolution": "~1km",
+  "bands": {
+    "1": "Sea Surface Temperature (\u00b0C)",
+    "2": "Salinity (PSU)",
+    "3": "Chlorophyll Concentration (mg/m\u00b3)",
+    "4": "Coral Health Index (0-1)"
+  },
+  "region": "Florida Keys",
+  "coordinate_system": "WGS84 (EPSG:4326)"
+}
