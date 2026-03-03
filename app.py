@@ -1,4 +1,5 @@
 # app.py
+#Frontend branch update
 # AI-Powered Coral Health Dashboard – Florida Pilot
 # Presentation-ready UI upgrade (ocean glass theme + premium header + polished Plotly)
 # Paste this entire file as your new app.py
